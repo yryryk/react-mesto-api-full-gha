@@ -16,8 +16,8 @@ const app = express();
 app.use(helmet());
 
 const limiter = rateLimit({
-  windowMs: 30 * 60 * 1000, // за 30 минут
-  max: 300, // можно совершить максимум 300 запросов с одного IP
+  windowMs: 15 * 60 * 1000, // за 15 минут
+  max: 150, // можно совершить максимум 150 запросов с одного IP
 });
 app.use(limiter);
 
