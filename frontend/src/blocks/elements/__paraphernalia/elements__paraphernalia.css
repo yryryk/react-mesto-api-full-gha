@@ -1,0 +1,7 @@
+.elements__paraphernalia {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 24.3px 20px 24.3px 21px;
+}

@@ -1,0 +1,12 @@
+.auth-forms {
+  width: 358px;
+  flex-direction: column;
+  background-color: transparent;
+  margin: 60px auto 0;
+}
+
+@media (max-width: 767px) {
+  .auth-forms {
+    width: 260px;
+  }
+}

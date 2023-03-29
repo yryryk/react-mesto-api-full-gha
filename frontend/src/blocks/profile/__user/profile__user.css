@@ -1,0 +1,13 @@
+.profile__user {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+
+@media (max-width: 767px) {
+  .profile__user {
+    flex-direction: column;
+    gap: 25px;
+  }
+}

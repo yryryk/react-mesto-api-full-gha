@@ -1,0 +1,11 @@
+.profile__user-pen-editing {
+  height: 26px;
+  width: 26px;
+  background-image: url(../../../images/Pen.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+  transition: opacity .5s ease-out;
+  z-index: 2;
+}

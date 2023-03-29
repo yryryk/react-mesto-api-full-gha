@@ -1,0 +1,15 @@
+.header__logo {
+  width: calc(((100vw - 320px) / (1280 - 320)) * (142 - 103.74) + 103.74px);
+  height: calc(((100vw - 320px) / (1280 - 320)) * (33 - 24.4) + 24.4px);
+  background-image: url(../../../images/Vector-logo.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-bottom: calc(((100vw - 320px) / (1280 - 320)) * (41 - 31.6) + 31.6px);
+}
+
+@media (max-width: 1279px) {
+  .header__logo {
+    margin-left: calc(((100vw - 320px) / (1280 - 320)) * (0 - 27) + 27px);
+  }
+}

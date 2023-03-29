@@ -1,0 +1,17 @@
+.input {
+  height: 27px;
+  width: 100%;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  padding: 0;
+  padding-bottom: 4px;
+  border: 0;
+  color: #000;
+  background-color: transparent;
+}
+
+.input:focus {
+  outline-color: #7fa4f5;
+  outline-offset: 1px;
+}

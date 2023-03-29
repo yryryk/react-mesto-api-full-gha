@@ -1,0 +1,22 @@
+.elements__like-button {
+  min-height: 19px;
+  min-width: 22px;
+  background-image: url(../../../images/Vector-photo-button.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 0;
+  background-color: transparent;
+  opacity: 1;
+  transition: opacity .5s ease-out;
+  padding: 0;
+}
+
+@media (any-hover: hover) {
+  .elements__like-button:hover {
+    cursor: pointer;
+    opacity: .5;
+  }
+}
+
+

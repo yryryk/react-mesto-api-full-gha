@@ -1,0 +1,9 @@
+.popup__auth-image {
+  height: 120px;
+  width: 120px;
+  align-self: center;
+  margin-top: 26px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}

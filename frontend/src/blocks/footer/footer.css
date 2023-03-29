@@ -1,0 +1,5 @@
+.footer {
+  width: calc(((100vw - 320px) / (1280 - 320)) * (880 - 282) + 282px);
+  max-width: 880px;
+  margin: calc(((100vw - 320px) / (1280 - 320)) * (66 - 48) + 48px) auto 0;
+}

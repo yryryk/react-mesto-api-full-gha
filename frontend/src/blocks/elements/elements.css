@@ -1,0 +1,9 @@
+.elements {
+  width: calc(((100vw - 320px) / (1280 - 320)) * (880 - 282) + 282px);
+  max-width: 880px;
+  margin: calc(((100vw - 320px) / (1280 - 320)) * (50 - 36) + 36px) auto 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 282px));
+  gap: 20.8px 17px;
+  justify-content: center;
+}
