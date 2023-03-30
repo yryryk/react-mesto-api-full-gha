@@ -13,7 +13,7 @@ https://github.com/yryryk/react-mesto-api-full-gha
 
 ## Ссылки на проект
 
-IP-адрес 84.201.179.132
+IP 84.201.179.132
 
 Frontend https://mesto-react.tovchennikov.nomoredomains.work/
 
