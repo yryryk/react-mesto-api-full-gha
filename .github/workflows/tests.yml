@@ -37,7 +37,7 @@ jobs:
       if: steps.cache.outputs.cache-hit != 'true'
       run: |
           npm install -g pnpm@7.30.3
-          pnpm i --frozen-lockfile --prefix web-autotest-public/
+          pnpm i --fix-lockfile --prefix web-autotest-public/
     - name: Run test config
       run: make proj15-test-config
   test_endpoints:
@@ -76,6 +76,6 @@ jobs:
       if: steps.cache.outputs.cache-hit != 'true'
       run: |
           npm install -g pnpm@7.30.3
-          pnpm i --frozen-lockfile --prefix web-autotest-public/
+          pnpm i --fix-lockfile --prefix web-autotest-public/
     - name: Run test endpoints
       run: make proj15-test-endpoints
