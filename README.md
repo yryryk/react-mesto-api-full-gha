@@ -14,20 +14,17 @@
 ## Запуск проекта локально
 
 ### фронтенд
-`npm i`
-`npm run start` 
-`npm run build`
+
+`npm i` — загружает зависимости<br/>
+`npm run start` — запускает проект <br/> 
+`npm run build` — запускает создание билда для деплоя
+
 ### бэкенд
-`npm i`
-`npm run dev`
-  
-## Ссылка на сайт, размещенный на Яндекс.Облаке.
 
-[Место](https://mesto-react.tovchennikov.nomoredomains.work/)
+`npm i` — загружает зависимости<br/>
+`npm run dev` — запускает сервер с hot-reload
 
-## Адрес репозитория: 
-
-https://github.com/yryryk/react-mesto-api-full-gha
+## [Ссылка на репозиторий](https://github.com/yryryk/react-mesto-api-full-gha)
 
 ## Ссылки на проект
 
@@ -36,3 +33,5 @@ IP 84.201.179.132
 Frontend https://mesto-react.tovchennikov.nomoredomains.work/
 
 Backend https://api.mesto.tovchennikov.nomoredomains.work/
+
+### [Ссылка на сайт, размещенный на Яндекс.Облаке.](https://mesto-react.tovchennikov.nomoredomains.work/ "https://mesto-react.tovchennikov.nomoredomains.work/")
