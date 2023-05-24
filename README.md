@@ -1,6 +1,8 @@
 [![Tests 15 sprint](https://github.com/yryryk/react-mesto-api-full-gha/actions/workflows/tests.yml/badge.svg)](https://github.com/yryryk/react-mesto-api-full-gha/actions/workflows/tests.yml)
 
 # react-mesto-api-full
+#### Статус: завершён
+
 Репозиторий для приложения проекта `Mesto`, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположен в директории `backend/`, а фронтенд - в `frontend/`. 
 
 ## Описание
@@ -35,3 +37,4 @@ Frontend https://mesto-react.tovchennikov.nomoredomains.work/
 Backend https://api.mesto.tovchennikov.nomoredomains.work/
 
 ### [Ссылка на сайт, размещенный на Яндекс.Облаке.](https://mesto-react.tovchennikov.nomoredomains.work/ "https://mesto-react.tovchennikov.nomoredomains.work/")
+[Портфолио](https://github.com/yryryk)
